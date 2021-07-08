@@ -82,8 +82,8 @@
   }
 
   .sop-container{
-    background-color: rgb(146, 247, 146);
-    padding-left: 100px;
+    background-color: rgb(123, 240, 94);
+    padding-left: 100px; 
     font-family: Arial, Helvetica, sans-serif;
   }
 
@@ -92,10 +92,20 @@
     justify-content: space-around;
     align-items: center;
     margin-top: 50px;
+    background-color: rgb(123, 240, 94);
+
   }
-  
+
+  .sessao2Sop iframe{
+    padding-left: 30px;
+    display: grid;
+    background-color: rgb(123, 240, 94);
+    margin-top: none;
+    width: 35%;
+    margin: 5px 20px;
 
 
+  }
   h2{
     text-align: center;
     font-size: 60px;
@@ -104,7 +114,10 @@
 
   h3{
     font-size: 30px;
-    margin-top: 20px;
+    margin-top: 30px;
   }
- 
+
+  p{
+    font-size: 20px;
+  }
   
